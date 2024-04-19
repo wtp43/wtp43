@@ -27,13 +27,3 @@
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
-
-<!-- Github Statistics -->
-
-## Statistics :chart_with_upwards_trend:
-
-![](https://leetcard.jacoblin.cool/wt403?theme=nord&font=IBM%20Plex%20Mono&ext=contest&animation=false)
-
-<div align="center">
-  <img src="https://github.com/wtp43/wtp43/blob/main/profile-3d-contrib/profile-green.svg" />
-</div>
