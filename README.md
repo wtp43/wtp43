@@ -1,9 +1,9 @@
 # Hey, I'm Will 😺
 
-- B.S. in Mathematics (Computer Science and Statistics) and part-time pianist
+- B.S. in Mathematics (Computer Science and Statistics) and aspiring pianist
 - 🎹 Took an opportunity after graduation to fulfill my passion for classical music by studying under a concert pianist
 - I'm now looking to get back into tech and am open to relocation/in-office positions
-- My other hobbies include learning about algorithms, biking, and climbing
+- My other hobbies include learning about algorithms, contemporizing piano pedagogy, and climbing
 
 ## Languages & Technology :computer:
 
